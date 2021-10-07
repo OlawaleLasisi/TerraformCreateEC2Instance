@@ -1,1 +1,1 @@
-# TerraformCreateEC2Instance
+# Terraform configuration file to create EC2 instance
